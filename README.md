@@ -20,5 +20,5 @@
 <img src="https://img.shields.io/badge/jquery-393359?logo=jquery&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/github-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/visual%20studio%20code-393359?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/sql-4D4577?logo=sql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/npm-4D4577?logo=npm&style=for-the-badge&logoColor=F2F2F2"/></p>
