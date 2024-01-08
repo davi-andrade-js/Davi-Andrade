@@ -7,7 +7,7 @@
 
 ## **Skills wall:**
 
-<p align="left"><<img src="https://img.shields.io/badge/javascript-F73C7B?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
+<p align="center"><img src="https://img.shields.io/badge/javascript-F73C7B?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/css3-F73C7B?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/react-F73C7B?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
@@ -21,3 +21,11 @@
 <img src="https://img.shields.io/badge/visual%20studio%20code-393359?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/npm-4D4577?logo=npm&style=for-the-badge&logoColor=F2F2F2"/></p>
+
+## **You can find me on:**
+
+*Click to be redirected*
+
+<p align="left"><a href="https://linkedin.com/in/davi-andrade"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
+<a href="mailto:dv.andrade04@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
+<a href="https://www.npmjs.com/~nick-gabe"><img src="https://img.shields.io/badge/npm-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=npm"/></a>
