@@ -8,9 +8,9 @@
 ## **Skills wall:**
 
 <p align="center"><img src="https://img.shields.io/badge/javascript-F73C7B?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/html5-F73C7B?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/css3-F73C7B?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/react-4D4577?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/react-F73C7B?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/express.js-4D4577?logo=express&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/sass-4D4577?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/github%20pages-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
