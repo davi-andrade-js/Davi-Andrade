@@ -1,6 +1,7 @@
 ## **About me:**
 
 * Davi Andrade, 19 years
+* Brazillian
 * FrontEnd Developer
 * Currently studying React.js
 * 1 year and 9 months since I started programming
