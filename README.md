@@ -4,7 +4,7 @@
 * Brazillian
 * FrontEnd Developer
 * Currently studying React.JS and TypeScript
-* 1 year and 9 months since I started programming
+* 1 year and 10 months since I started programming
 
 ## **Skills wall:**
 
