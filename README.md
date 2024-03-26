@@ -1,10 +1,10 @@
 ## **About me:**
 
-* Davi Andrade, 19 years
+* Davi Andrade, 19 years old
 * Brazillian
 * FrontEnd Developer
-* Currently studying React.JS and TypeScript
-* 1 year and 10 months since I started programming
+* Currently building my portfolio
+* 1 year and 11 months since I started programming
 
 ## **Skills wall:**
 
