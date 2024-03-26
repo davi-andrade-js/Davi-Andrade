@@ -27,5 +27,5 @@
 
 *Click to be redirected*
 
-<p align="left"><a href="https://linkedin.com/in/davi-andrade"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
+<p align="left"><a href="https://www.linkedin.com/in/andrade-davi/"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <a href="mailto:dv.andrade04@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
