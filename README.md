@@ -1,9 +1,8 @@
 ## **About me:**
 
-* Davi Andrade, 19 years old
+* Davi Andrade, 20 years old
 * Brazillian
 * FrontEnd Developer
-* 2 years since I started programming
 
 ## **Skills wall:**
 
